@@ -105,8 +105,8 @@ function renderCartItems(cart) {
     itemElement.appendChild(itemImage); // add the item image to the cart
     const itemNamePrice = document.createElement('div');
     itemNamePrice.textContent = `${item.name} - ${item.price}`;
-    itemElement.appendChild(itemNamePrice); // Append the name and price to the item's div
+    itemElement.appendChild(itemNamePrice); 
 
-    cartContainer.appendChild(itemElement); // Append the item's div to the cart container
+    cartContainer.appendChild(itemElement);
   });
 }
