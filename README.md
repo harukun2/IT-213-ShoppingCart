@@ -1,2 +1,2 @@
 # IT-213-Shopping Cart
-Browse the project documentation [here](https://drive.google.com/drive/folders/1jX9zk2eo4Pn326--kIbAYuWkEI1xEB89?usp=drive_link).
+Browse the project documentation [here](https://drive.google.com/file/d/1iJKf6FpPBubv3zwGdLAE12l0pXOQ9yUf/view?usp=sharing).
